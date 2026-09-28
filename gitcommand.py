@@ -9,3 +9,4 @@
 #     - git remote add origin "remote repository path"->for connecting local repo with remote repo
 #git branch -> showing current branch name
 #git push origin branchname -> for adding changes from local repo into remote repo
+#git remote -> for showing remote repository details
